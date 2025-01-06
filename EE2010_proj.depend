@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1736145477 source:d:\apps\clion\clionprojects\group01_codetest\account.cpp
+	"include\account.h"
+
+1736145477 d:\apps\clion\clionprojects\group01_codetest\include\account.h
+	<string>
+
+1736145477 source:d:\apps\clion\clionprojects\group01_codetest\customer_acc.cpp
+	"include\customer_acc.h"
+
+1736145477 d:\apps\clion\clionprojects\group01_codetest\include\customer_acc.h
+	<vector>
+	<string>
+	<iostream>
+	"account.h"
+	"pet.h"
+
+1736145477 d:\apps\clion\clionprojects\group01_codetest\include\pet.h
+	<string>
+	<fstream>
+	<iostream>
+	"system_dataBase.h"
+
+1736145477 d:\apps\clion\clionprojects\group01_codetest\include\system_database.h
+	<vector>
+	<string>
+	<iostream>
+	"customer_acc.h"
+	"staff_acc.h"
+
+1736145477 d:\apps\clion\clionprojects\group01_codetest\include\staff_acc.h
+	<string>
+	<vector>
+	<iostream>
+	"account.h"
+	"system_dataBase.h"
+	"pet.h"
+
+1736145477 source:d:\apps\clion\clionprojects\group01_codetest\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	"include\pet.h"
+	"include\system_dataBase.h"
+	"include\staff_acc.h"
+	"include\define.h"
+	<assert.h>
+	<regex>
+
+1736145477 d:\apps\clion\clionprojects\group01_codetest\include\define.h
+
+1736145477 source:d:\apps\clion\clionprojects\group01_codetest\pet.cpp
+	"include\pet.h"
+
+1736145477 source:d:\apps\clion\clionprojects\group01_codetest\staff_acc.cpp
+	"include\staff_acc.h"
+
+1736145477 source:d:\apps\clion\clionprojects\group01_codetest\system_database.cpp
+	"include\system_dataBase.h"
+
